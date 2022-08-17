@@ -10,7 +10,7 @@ public class C01_ilk_Kavramlar {
         // git remote add origin https://github.com/LokmanB81/githubTseting.git
         //git push -u origin main
 
-        System.out.println("projede degisik yaptik yeni commit olusturalim");
+        System.out.println("projede degisiklik yaptik yeni commit olusturalim");
         // git commit -a -m "message"
         /*branch 'master' set up to track 'origin/master'.
 PS C:\GitGitHubTesting> git commit -a -m "bbb"
